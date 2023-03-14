@@ -17,8 +17,8 @@
 
 3. Install Guest OS:
     - Start installation: Try or Install Ubuntu > Install Ubuntu > Continue > Continue > Install Now
-    - Disk to install to: The Virtual Machine
-    - Partition size: 
+    - Disk to install to: SCSI3
+    - Partition size: 15GB
     - Partition filesystem: Ext4 
 4. Remove installation media:
     - How to remove: Make sure the VM is set to boot the hard disk that has Ubuntu then restart
